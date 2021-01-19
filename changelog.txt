@@ -1,1 +1,9 @@
-rosy
+Changelog: (2021-01-18)
+ - Jan Security Patch
+ - fixed faceunlock showing Too many attempts
+ - switched to OSS libmmcamera_interface
+ - updated Radio blobs from LA.UM.9.6.2.r1-02800-89xx.0
+ - updated FM blobs from LA.UM.9.6.2.r1-02800-89xx.0
+ - fixed network taking ages to register after reboot
+ - some misc changes 
+ - synced with latest LineageOS sources as of 18 Jan 2021

@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1609256753,
-      "filename": "lineage-18.1-20201229-UNOFFICIAL-rosy.zip",
-      "id": "cc6e305d37302b549b394d403529b0b3",
+      "datetime": 1610985631,
+      "filename": "lineage-18.1-20210118-UNOFFICIAL-rosy.zip",
+      "id": "c5e124378e8d6804d1864c5c7d2830bd",
       "romtype": "UNOFFICIAL",
-      "size": 725741922,
-      "url": "https://downloads.pulkit077.workers.dev/Downloads/lineage-18.1-20201229-UNOFFICIAL-rosy.zip",
+      "size": 711202523,
+      "url": "https://downloads.pulkit077.workers.dev/Downloads/lineage-18.1-20210118-UNOFFICIAL-rosy.zip",
       "version": "18.1"
     }
   ]
