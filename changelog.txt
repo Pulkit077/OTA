@@ -1,7 +1,1 @@
-Changelog: (2021-04-08)
- - April security path
- - synced with latest los sources as off 8th April
- - fixed late network registration
- - addressed few denials
- - fixed trust HAL showing not secured
- - fixed ok google detection
+Check recent LineageOS post in https://t.me/PulkitProjects
