@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1663523887,
-      "filename": "lineage-19.1-20220918-UNOFFICIAL-sweet.zip",
-      "id": "56a270807329d542558bcdf144850e79",
+      "datetime": 1666445044,
+      "filename": "lineage-19.1-20221022-UNOFFICIAL-sweet.zip",
+      "id": "72ea516321043362ac6c40db0ce5c621",
       "romtype": "UNOFFICIAL",
-      "size": 1758277206,
-      "url": "https://downloads.royalturd.workers.dev/0:/lineage-19.1-20220918-UNOFFICIAL-sweet.zip",
+      "size": 1758575404,
+      "url": "https://kartik19.optimusmirror.workers.dev/0:/lineage-19.1-20221022-UNOFFICIAL-sweet.zip",
       "version": "19.1"
     }
   ]
