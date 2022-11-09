@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1667623134,
-      "filename": "lineage-20.0-20221105-UNOFFICIAL-sweet.zip",
-      "id": "9cc10928e26d0272a93fea2b7eae3982",
+      "datetime": 1667920039,
+      "filename": "lineage-20.0-20221108-UNOFFICIAL-sweet.zip",
+      "id": "b1d9ea140a2e1119ae877c6981603b2d",
       "romtype": "UNOFFICIAL",
-      "size": 1686510814,
-      "url": "https://downloads.pulkit077.workers.dev/0:/Downloads/lineage-20.0-20221105-UNOFFICIAL-sweet.zip",
+      "size": 1687737166,
+      "url": "https://kartik19.optimusmirror.workers.dev/0:/lineage-20.0-20221108-UNOFFICIAL-sweet.zip",
       "version": "20.0"
     }
   ]
